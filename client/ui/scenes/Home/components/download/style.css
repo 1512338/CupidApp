@@ -1,0 +1,15 @@
+.download{
+  
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #555555;
+  background-color: rgb(245, 241, 241);
+}
+
+.download .textdownload{
+  margin-top: 50px;
+  display: flex;
+  white-space: nowrap;
+}
+
